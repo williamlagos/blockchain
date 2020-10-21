@@ -66,12 +66,12 @@
       }
     </style>
 
-    <title>Grandir Capital Financeiro</title>
+    <title>Blockchain Company</title>
   </head>
   <body class="blockchain">
     <nav class="container-fluid orange">
-      <h1 class="cover">Grandir
-        <div style="color:white; font-size:.5em">Capital Financeiro</div>
+      <h1 class="cover">Blockchain 
+        <div style="color:white; font-size:.5em">Company</div>
       </h1>
     </nav>
 
@@ -87,7 +87,7 @@
             </div>
             <div class="my-5">
               <p class="lead text-justify">
-                A Grandir capital financeiro é uma Holding mista, localizada em Porto Alegre, RS
+                A Blockchain  capital financeiro é uma Holding mista, localizada em Porto Alegre, RS
                 fundada em agosto de <strong>2015</strong> por dois amigos que, após trabalharem
                 juntos em grandes empresas como <strong>GRUPO RBS, SANTANDER, SEBRAE</strong> e
                 outras, decidiram aplicar os seus conhecimentos obtidos com estas experiências
@@ -119,7 +119,7 @@
             </div>
             <div class="my-5">
               <p class="lead text-justify">
-                Até <strong>AGOSTO DE 2020</strong> formar o Grupo Grandir, tornando-se sócios e
+                Até <strong>AGOSTO DE 2020</strong> formar o Grupo Blockchain , tornando-se sócios e
                 criando empresas de diferentes segmentos tradicionais do mercado, se consolidando
                 como uma das <strong>MAIS PROMISSORAS HOLDING MISTA</strong> do Rio Grande do Sul.
               </p>
@@ -147,7 +147,7 @@
                 <p class="text-center p-5" style="color:white; font-size:1.4em">
                   <strong>HUMILDADE:</strong> No trato com o público em geral (parceiros, funcionários,
                   fornecedores). Buscando uma relação de <strong>RESPEITO</strong> independente da classe
-                  social, cor ou credo, a postura da Grandir irá se manter sempre a mesma <strong>
+                  social, cor ou credo, a postura da Blockchain  irá se manter sempre a mesma <strong>
                   HUMILDADE PARA APRENDER</strong>, pois nós estamos em constante evolução!
                 </p>
               </div>
@@ -156,7 +156,7 @@
               <div class="d-flex overlay">
                 <p class="text-center p-5" style="color:white; font-size:1.4em">
                   <strong>TRANSPARÊNCIA:</strong> Deixaremos os parceiros sempre informados da atual
-                  situação da Grandir, repassando informações importantes de novos negócios e sobre o
+                  situação da Blockchain , repassando informações importantes de novos negócios e sobre o
                   crescimento da empresa.
                 </p>
               </div>
@@ -230,7 +230,7 @@
       <div class="container">
       <div class="row py-4">
         <div class="col-md-12 text-center py-5">
-          <h3 class="text-uppercase">Seja parceiro da Grandir</h3>
+          <h3 class="text-uppercase">Seja parceiro da Blockchain </h3>
           <h5 class="text-uppercase">E lucre 2,5% ao mês</h5>
         </div>
         <div class="col-md-6">
@@ -262,28 +262,26 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6 text-center">
-            <h2 class="text-uppercase text-white">Giovane Melo</h2>
+            <h2 class="text-uppercase text-white"></h2>
             <h6 class="text-uppercase" style="color:#A96003;">CEO</h6>
             <p class="py-3">
-              <i class="fas fa-phone"></i>&nbsp;(51) 98193-3437 <br/>
-              <i class="fas fa-envelope"></i>&nbsp;ceo@grandircapitalfinanceiro.com
+              <i class="fas fa-envelope"></i>&nbsp;ceo@blockchaincompany.com
             </p>
           </div>
           <div class="col-md-6 text-center">
-            <h2 class="text-uppercase text-white">Douglas Inacio</h2>
+            <h2 class="text-uppercase text-white"></h2>
             <h6 class="text-uppercase" style="color:#A96003;">Diretor Comercial</h6>
             <p class="py-3">
-              <i class="fas fa-phone"></i>&nbsp;(51) 98163-3441 <br/>
-              <i class="fas fa-envelope"></i>&nbsp;comercial@grandircapitalfinanceiro.com
+              <i class="fas fa-envelope"></i>&nbsp;comercial@blockchaincompany.com
             </p>
           </div>
         </div>
       </div>
       <div class="row text-center">
         <div class="col-md-12">
-          <a style="color:#A96003; font-size:3em" href="https://www.facebook.com/GrandirCapitalFinanceiro/"><i class="fab fa-facebook-square"></i></a>
-          <a style="color:#A96003; font-size:3em" href="https://www.instagram.com/grandircapitalfinanceiro/"><i class="fab fa-instagram"></i></a>
-          <h2 class="text-white">grandircf</h2>
+          <a style="color:#A96003; font-size:3em" href="https://www.facebook.com/blockchaincompany/"><i class="fab fa-facebook-square"></i></a>
+          <a style="color:#A96003; font-size:3em" href="https://www.instagram.com/blockchaincompany/"><i class="fab fa-instagram"></i></a>
+          <h2 class="text-white">blockchainco</h2>
         </div>
       </div>
     </footer>
