@@ -1,2 +1,2 @@
 # blockchain
-Blockchain static website w/ landing page
+Blockchain static website as landing page
